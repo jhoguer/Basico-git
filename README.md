@@ -1,2 +1,3 @@
 # Basico-git
-Curso de git y github
+Curso de git y github.
+Estamos aprendiendo mucho de control de versiones.
